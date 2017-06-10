@@ -2836,7 +2836,7 @@ class HomeController extends AppController
 
     public function gitTestFunction() 
     {
-	echo "asdf";
+	echo "hello";
     }
 
 }
