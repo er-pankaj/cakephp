@@ -2834,5 +2834,10 @@ class HomeController extends AppController
         $this->set('title', 'Coming Soon | stylebrigade.co');
     }
 
+    public function gitTestFunction() 
+    {
+	echo "asdf";
+    }
+
 }
 
